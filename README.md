@@ -1,8 +1,6 @@
----
-
 # Omnifood — HTML
 
-**Live demo:** [https://a2sn2.github.io/Omnifood-html/](https://a2sn2.github.io/Omnifood-html/)
+**Live demo:** (https://a2sn2.github.io/Omnifood-html/)
 
 ---
 
