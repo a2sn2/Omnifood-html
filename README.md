@@ -134,12 +134,4 @@ Omnifood-html/
 
 ---
 
-## Next steps (when CSS/JS are allowed)
-
-* **CSS**: apply layout (grid/flex), spacing, colors, typography, responsive breakpoints.
-* **JS**: optional smooth scrolling and mobile menu toggle.
-* **Assets**: compress/optimize images.
-* **Meta**: add Open Graph/Twitter meta tags.
-
----
 
